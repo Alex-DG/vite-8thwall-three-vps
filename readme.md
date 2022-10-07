@@ -1,8 +1,6 @@
-# ViteJS 8thwall ThreeJS Template
+# ViteJS 8thwall ThreeJS with Lightship VPS for web
 
-Minimal reusable template project: 8thwall + threeJS made with viteJS⚡
-
-[Demo](https://vite-8thwall-three-template.vercel.app/)
+- Experiement external self-hosted project with VPS and 8thWall
 
 ## Setup
 
